@@ -74,9 +74,8 @@ Retorna a lista de clientes cadastrados.
 
 ## 🧪 Evidências da Aplicação
 
-O PDF com todas as evidências exigidas pelo checkpoint está disponível aqui:
+📄 [Clique aqui para baixar o PDF com as evidências](./Evidencias_CP3_Organizado_MarcusCalazans.pdf)
 
-📄 [Evidencias_CP3_Organizado_MarcusCalazans.pdf](./Evidencias_CP3_Organizado_MarcusCalazans.pdf)
 
 Inclui:
 - `docker ps`, `whoami`, `ls && pwd`
